@@ -1,0 +1,33 @@
+
+    .text{
+        color:rgba(224, 184, 4, 0.883);
+      }
+
+    .text1{
+        color:black;
+    }
+    .text2{
+        color:white;
+    }
+
+    .text3{
+        color:maroon;
+    }
+
+.whole{
+    background:url(img/background.png);
+    
+}
+
+.background{
+    background-color:white;
+}
+
+.ic{
+    color: rgb(3, 243, 3);
+}
+
+.btn-primary{
+    color:#fff;background-color:maroon;border-color:maroon;
+}
+
